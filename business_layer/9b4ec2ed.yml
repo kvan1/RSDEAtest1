@@ -1,0 +1,10 @@
+id: 9b4ec2ed
+name: Henvisning
+documentation: '"En henvisning er en anmodning fra en henvisningsinstans til en sundhedsproducent
+  om udførelse af eller medvirken til en sundhedsaktivitet.  - Planlagte kontakter
+  er alle kontakter, der ikke er opstået som følge af akut sygdom eller skade. Planlagte
+  kontakter har en henvisning."'
+folderPath: Functions/Kerneydelser
+properties: []
+type: business
+elementType: BusinessFunction

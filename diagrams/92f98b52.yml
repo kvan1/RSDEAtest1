@@ -1,0 +1,116 @@
+id: 92f98b52
+diagramElements:
+  071df65c: {elementObjectId: 36b076eb, fillColour: null, font: null, fontColour: null,
+    boundsX: '180', boundsY: '48', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  854e1cc9: {elementObjectId: e8330410, fillColour: null, font: null, fontColour: null,
+    boundsX: '180', boundsY: '108', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  61fd940a: {elementObjectId: b25e68b8, fillColour: null, font: null, fontColour: null,
+    boundsX: '180', boundsY: '168', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  bae33d76: {elementObjectId: ddb2cc0c, fillColour: null, font: null, fontColour: null,
+    boundsX: '312', boundsY: '48', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  6552d199: {elementObjectId: 0d67eba3, fillColour: null, font: null, fontColour: null,
+    boundsX: '312', boundsY: '108', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  ade21472: {elementObjectId: f86d0c1e, fillColour: null, font: null, fontColour: null,
+    boundsX: '312', boundsY: '168', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  d228b9eb: {elementObjectId: 7204ce1f, fillColour: null, font: null, fontColour: null,
+    boundsX: '444', boundsY: '48', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  daf04f08: {elementObjectId: 338a6c0f, fillColour: null, font: null, fontColour: null,
+    boundsX: '444', boundsY: '108', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  a800b441: {elementObjectId: daa6be4f, fillColour: null, font: null, fontColour: null,
+    boundsX: '444', boundsY: '168', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  ab30dce7: {elementObjectId: 629da8dc, fillColour: null, font: null, fontColour: null,
+    boundsX: '576', boundsY: '108', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  aff2a321: {elementObjectId: '81454053', fillColour: null, font: null, fontColour: null,
+    boundsX: '576', boundsY: '168', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  87e5b1d9: {elementObjectId: b003d56c, fillColour: null, font: null, fontColour: null,
+    boundsX: '708', boundsY: '48', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  019286fe: {elementObjectId: 65adab56, fillColour: null, font: null, fontColour: null,
+    boundsX: '708', boundsY: '108', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  159f0f01: {elementObjectId: b6742caa, fillColour: null, font: null, fontColour: null,
+    boundsX: '708', boundsY: '168', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  '30305866': {elementObjectId: d8592a3d, fillColour: null, font: null, fontColour: null,
+    boundsX: '48', boundsY: '48', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  88af6168: {elementObjectId: b1608913, fillColour: null, font: null, fontColour: null,
+    boundsX: '48', boundsY: '108', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  a728d6d3: {elementObjectId: 9ec45b11, fillColour: null, font: null, fontColour: null,
+    boundsX: '48', boundsY: '168', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  03482a03: {elementObjectId: e8af958c, fillColour: null, font: null, fontColour: null,
+    boundsX: '24', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '25121946'}
+  9ffc0e4e: {elementObjectId: 738572d0, fillColour: null, font: null, fontColour: null,
+    boundsX: '168', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '25121946'}
+  864f3b16: {elementObjectId: f71be089, fillColour: null, font: null, fontColour: null,
+    boundsX: '312', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '25121946'}
+  814a8fbd: {elementObjectId: f560b145, fillColour: null, font: null, fontColour: null,
+    boundsX: '24', boundsY: '90', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '25121946'}
+  0234103b: {elementObjectId: fe0931e9, fillColour: null, font: null, fontColour: null,
+    boundsX: '456', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '25121946'}
+  d0cc2d06: {elementObjectId: 363738c8, fillColour: null, font: null, fontColour: null,
+    boundsX: '588', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '25121946'}
+  d74a0040: {elementObjectId: bbd521bc, fillColour: null, font: null, fontColour: null,
+    boundsX: '168', boundsY: '90', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '25121946'}
+  '84199636': {elementObjectId: aaf7908f, fillColour: null, font: null, fontColour: null,
+    boundsX: '312', boundsY: '90', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '25121946'}
+  167c9dd5: {elementObjectId: 3cd0c093, fillColour: null, font: null, fontColour: null,
+    boundsX: '456', boundsY: '90', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '25121946'}
+  356a143b: {elementObjectId: 050d51b8, fillColour: null, font: null, fontColour: null,
+    boundsX: '588', boundsY: '90', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '25121946'}
+  59ca5ef8: {elementObjectId: a4bdba41, fillColour: null, font: null, fontColour: null,
+    boundsX: '237', boundsY: '563', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  eae1585d:
+    elementObjectId: 5ae40018
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '556'
+    boundsY: '588'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      b7fbc439: {elementObjectId: c8d6fde9, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 59ca5ef8}
+diagramSpecificElements:
+  7ebbd398: {fillColour: null, font: null, fontColour: null, boundsX: '29', boundsY: '15',
+    boundsWidth: '836', boundsHeight: '238', textAlignment: '2', textPosition: '0',
+    objectName: Kliniske Systemer, objectType: DiagramModelGroup, objectDocumentation: ''}
+  '25121946': {fillColour: null, font: null, fontColour: null, boundsX: '29', boundsY: '276',
+    boundsWidth: '718', boundsHeight: '181', textAlignment: '2', textPosition: '0',
+    objectName: Administrative systemer, objectType: DiagramModelGroup, objectDocumentation: ''}
+name: 'RSD View: Application Landscape'
+documentation: ''
+folderPath: ''
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

@@ -1,0 +1,42 @@
+id: 8cc6ba49
+diagramElements:
+  0c28752b: {elementObjectId: 654afbbf, fillColour: null, font: null, fontColour: null,
+    boundsX: '144', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '63359759'}
+  fdef3056: {elementObjectId: 48e05a60, fillColour: null, font: null, fontColour: null,
+    boundsX: '144', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: f5d89039}
+  b6e6efae:
+    elementObjectId: d8592a3d
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '144'
+    boundsY: '114'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    parentElementId: f5d89039
+    sourceRelationshipIds:
+      2b664b8a: {elementObjectId: 9bfcab21, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 0c28752b}
+      954042f3: {elementObjectId: 15060c13, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: fdef3056}
+diagramSpecificElements:
+  '63359759': {fillColour: null, font: null, fontColour: null, boundsX: '12', boundsY: '324',
+    boundsWidth: '400', boundsHeight: '109', textAlignment: '2', textPosition: '0',
+    objectName: Data, objectType: DiagramModelGroup, objectDocumentation: ''}
+  f5d89039: {fillColour: null, font: null, fontColour: null, boundsX: '12', boundsY: '96',
+    boundsWidth: '400', boundsHeight: '205', textAlignment: '2', textPosition: '0',
+    objectName: Applications, objectType: DiagramModelGroup, objectDocumentation: ''}
+name: 'Sample Viewpoint: Application'
+documentation: ''
+folderPath: ''
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

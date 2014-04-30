@@ -1,0 +1,110 @@
+id: 9803d5ba
+diagramElements:
+  3a5aaa8f: {elementObjectId: 4af1c1f3, fillColour: null, font: null, fontColour: null,
+    boundsX: '12', boundsY: '24', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  583210f7:
+    elementObjectId: de802ec7
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '528'
+    boundsY: '192'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      e7727874: {elementObjectId: 5c0bc404, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: '12183387'}
+      9e434ca8: {elementObjectId: f2fd0246, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 1f9cef9f}
+      a9fa18f0: {elementObjectId: 464f741f, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 8ca417ae}
+  93f14763:
+    elementObjectId: a4bdba41
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '360'
+    boundsY: '192'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      1799728c: {elementObjectId: 166a32b0, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 583210f7}
+  f161b584:
+    elementObjectId: 9b4ec2ed
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '36'
+    boundsY: '108'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      a6c11bc9: {elementObjectId: 6e2068c3, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 833a402a}
+  948fe965:
+    elementObjectId: 5ae40018
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '204'
+    boundsY: '192'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      201de1bd: {elementObjectId: c8d6fde9, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 93f14763}
+  '12183387': {elementObjectId: c4b90b5b, fillColour: null, font: null, fontColour: null,
+    boundsX: '816', boundsY: '312', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  1f9cef9f: {elementObjectId: '41185e64', fillColour: null, font: null, fontColour: null,
+    boundsX: '672', boundsY: '312', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  8ca417ae: {elementObjectId: bab685e9, fillColour: null, font: null, fontColour: null,
+    boundsX: '528', boundsY: '312', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  833a402a:
+    elementObjectId: a945fdc7
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '36'
+    boundsY: '192'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      dcdeed73: {elementObjectId: '41696720', font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 948fe965}
+diagramSpecificElements: {}
+name: RSD Value Chain Diagram
+documentation: "Opstillet som et billed af et patientforløb. \r\nFlere elementer optræ\
+  der ikke i Fællesindholdet. \r\nDer er tvivl hvorvidt elementer bør nedbrydes eller\
+  \ ændres, samt om de modelleres bedst som funktioner."
+folderPath: ''
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

@@ -1,0 +1,79 @@
+id: b7d70080
+diagramElements:
+  10d91b83: {elementObjectId: '23835025', fillColour: null, font: null, fontColour: null,
+    boundsX: '12', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 2ae518e3}
+  3510a5bd: {elementObjectId: 7a9b339c, fillColour: null, font: null, fontColour: null,
+    boundsX: '276', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 2ae518e3}
+  88b61f94: {elementObjectId: b5e19504, fillColour: null, font: null, fontColour: null,
+    boundsX: '144', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 2ae518e3}
+  956ff02e: {elementObjectId: 652da195, fillColour: null, font: null, fontColour: null,
+    boundsX: '192', boundsY: '90', boundsWidth: '157', boundsHeight: '55', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 2ae518e3}
+  '08e89927': {elementObjectId: 379b18b0, fillColour: null, font: null, fontColour: null,
+    boundsX: '12', boundsY: '90', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 2ae518e3}
+  a1a051a3: {elementObjectId: 05af8585, fillColour: null, font: null, fontColour: null,
+    boundsX: '12', boundsY: '18', boundsWidth: '133', boundsHeight: '55', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: ea736533}
+  3010dbc8: {elementObjectId: 48b98fdc, fillColour: null, font: null, fontColour: null,
+    boundsX: '156', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: ea736533}
+  07fdefbb: {elementObjectId: 904ccbd9, fillColour: null, font: null, fontColour: null,
+    boundsX: '288', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: ea736533}
+  ae322d59: {elementObjectId: '9e784535', fillColour: null, font: null, fontColour: null,
+    boundsX: '143', boundsY: '78', boundsWidth: '145', boundsHeight: '55', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: ea736533}
+  1be75f57: {elementObjectId: 9cf166ee, fillColour: null, font: null, fontColour: null,
+    boundsX: '24', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: e5a44308}
+  ef8d10f2: {elementObjectId: f4ce3011, fillColour: null, font: null, fontColour: null,
+    boundsX: '168', boundsY: '18', boundsWidth: '145', boundsHeight: '55', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: e5a44308}
+  89a51ef0: {elementObjectId: 32ae7caf, fillColour: null, font: null, fontColour: null,
+    boundsX: '24', boundsY: '90', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: e5a44308}
+  a3b0f935: {elementObjectId: 2f8720dd, fillColour: null, font: null, fontColour: null,
+    boundsX: '168', boundsY: '90', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: e5a44308}
+  0e6ef881: {elementObjectId: 53a62456, fillColour: null, font: null, fontColour: null,
+    boundsX: '12', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 21c92b07}
+  947563c5: {elementObjectId: 248b8de2, fillColour: null, font: null, fontColour: null,
+    boundsX: '156', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 21c92b07}
+  19e9bac1: {elementObjectId: 9e2f7622, fillColour: null, font: null, fontColour: null,
+    boundsX: '300', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 21c92b07}
+  dfd8ece9: {elementObjectId: 2f82303b, fillColour: null, font: null, fontColour: null,
+    boundsX: '156', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 6e55df06}
+  250fbe29: {elementObjectId: aea0ebbd, fillColour: null, font: null, fontColour: null,
+    boundsX: '12', boundsY: '18', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 6e55df06}
+diagramSpecificElements:
+  2ae518e3: {fillColour: null, font: null, fontColour: null, boundsX: '36', boundsY: '36',
+    boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2', textPosition: '0',
+    objectName: Henvisning og Visitation, objectType: DiagramModelGroup, objectDocumentation: ''}
+  ea736533: {fillColour: null, font: null, fontColour: null, boundsX: '36', boundsY: '240',
+    boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2', textPosition: '0',
+    objectName: Diagnosticering, objectType: DiagramModelGroup, objectDocumentation: ''}
+  e5a44308: {fillColour: null, font: null, fontColour: null, boundsX: '516', boundsY: '38',
+    boundsWidth: '418', boundsHeight: '169', textAlignment: '2', textPosition: '0',
+    objectName: Rehabilitering, objectType: DiagramModelGroup, objectDocumentation: ''}
+  21c92b07: {fillColour: null, font: null, fontColour: null, boundsX: '36', boundsY: '432',
+    boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2', textPosition: '0',
+    objectName: Udskrivelse, objectType: DiagramModelGroup, objectDocumentation: ''}
+  6e55df06: {fillColour: null, font: null, fontColour: null, boundsX: '516', boundsY: '240',
+    boundsWidth: '442', boundsHeight: '161', textAlignment: '2', textPosition: '0',
+    objectName: Behandling, objectType: DiagramModelGroup, objectDocumentation: ''}
+name: 'RSD View: Information Model'
+documentation: ''
+folderPath: ''
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

@@ -1,0 +1,9 @@
+id: de802ec7
+name: Behandling
+documentation: '"En behandling er en intervention foretaget af klinisk personale (undersøgelse,
+  diagnosticering, sygdomsbehandling, genoptræning, sundhedsfaglig pleje og sundhedsfaglige
+  forebyggelsestiltag mv.), hvor sundhedsformål er at påvirke en patients helbredstilstand."'
+folderPath: Functions/Kerneydelser
+properties: []
+type: business
+elementType: BusinessFunction

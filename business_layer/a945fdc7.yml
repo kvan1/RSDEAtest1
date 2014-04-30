@@ -1,0 +1,9 @@
+id: a945fdc7
+name: Visitation
+documentation: '"En visitation er en sundhedsfaglig vurdering og administrativ vurdering
+  af en patients behov for sundhedsaktiviteter og prioritering heraf på baggrund af
+  en henvisning eller en patientkontakt."'
+folderPath: Functions/Kerneydelser
+properties: []
+type: business
+elementType: BusinessFunction

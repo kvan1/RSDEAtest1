@@ -1,0 +1,8 @@
+id: 629da8dc
+name: Telemedicin
+documentation: '"Telemedicin er af Dansk Selskab for Klinisk Telemedicin kort defineret
+  som ”digitalt understøttede sundhedsfaglige ydelser over afstand”"'
+folderPath: Kliniske systemer
+properties: []
+type: application
+elementType: ApplicationComponent

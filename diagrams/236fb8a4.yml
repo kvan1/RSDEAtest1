@@ -1,0 +1,22 @@
+id: 236fb8a4
+diagramElements: {}
+diagramSpecificElements:
+  be91e12d: {fillColour: '#80ffff', font: null, fontColour: null, boundsX: '36', boundsY: '36',
+    boundsWidth: '400', boundsHeight: '100', textAlignment: '2', textPosition: '0',
+    objectName: 'RSD View: Application Landscape', objectType: DiagramModelReference,
+    diagramReferenceId: 92f98b52}
+  07c3843a: {fillColour: '#80ff80', font: null, fontColour: null, boundsX: '36', boundsY: '156',
+    boundsWidth: '400', boundsHeight: '100', textAlignment: '2', textPosition: '0',
+    objectName: 'RSD View: Information Model', objectType: DiagramModelReference,
+    diagramReferenceId: b7d70080}
+  2544f1b5: {fillColour: '#ffff80', font: null, fontColour: null, boundsX: '36', boundsY: '288',
+    boundsWidth: '400', boundsHeight: '100', textAlignment: '2', textPosition: '0',
+    objectName: 'RSD Viewpoint: High-Level Layered View', objectType: DiagramModelReference,
+    diagramReferenceId: a1199e7b}
+name: RSD Map View
+documentation: ''
+folderPath: ''
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

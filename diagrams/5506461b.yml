@@ -1,0 +1,17 @@
+id: 5506461b
+diagramElements: {}
+diagramSpecificElements:
+  60eb3829: {fillColour: '#ffffb5', font: null, fontColour: null, boundsX: '20', boundsY: '24',
+    boundsWidth: '400', boundsHeight: '100', textAlignment: '2', textPosition: '0',
+    objectName: 'Sample Viewpoint: Business', objectType: DiagramModelReference, diagramReferenceId: f9fae6a9}
+  dd34042d: {fillColour: '#b5ffff', font: null, fontColour: null, boundsX: '20', boundsY: '132',
+    boundsWidth: '400', boundsHeight: '100', textAlignment: '2', textPosition: '0',
+    objectName: 'Sample Viewpoint: Application', objectType: DiagramModelReference,
+    diagramReferenceId: 8cc6ba49}
+name: Sample Map View
+documentation: ''
+folderPath: ''
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel
