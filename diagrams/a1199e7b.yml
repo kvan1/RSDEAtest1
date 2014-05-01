@@ -338,6 +338,22 @@ diagramElements:
   9f4fa11e: {elementObjectId: '23835025', fillColour: null, font: null, fontColour: null,
     boundsX: '48', boundsY: '132', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
     textPosition: '0', representationType: '0'}
+  84f1ac85:
+    elementObjectId: 55235b3c
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '192'
+    boundsY: '24'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      14bdc8ad: {elementObjectId: 69cb89b9, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: d221926d}
 diagramSpecificElements: {}
 name: 'RSD Viewpoint: High-Level Layered View'
 documentation: ''
